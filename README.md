@@ -43,6 +43,9 @@ Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
+- [The 3 Commands That Turn Chaos into Clarity in DevOps](https://dev.to/bharath_018/the-3-commands-that-turn-chaos-into-clarity-in-devops-2l1h)
+- [🔐Raise your hand if you use SSH every day without actually knowing what it does. Yeah, me too😁 you’re definitely not alone.](https://dev.to/bharath_018/raise-your-hand-if-you-use-ssh-every-day-without-actually-knowing-what-it-does-yeah-me-too-56oc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
