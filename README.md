@@ -14,7 +14,7 @@ I enjoy working across cloud, IaC, containers, and CI/CD to simplify deployments
 - Automating cloud infrastructure using **Terraform**
 - Deploying and managing workloads on **Kubernetes**
 - Building CI/CD pipelines using **GitHub Actions / Jenkins**
-- Working with **AWS** services (EC2, IAM, VPC, S3, Lambda, EKS)
+- Working with the mix of **cloud** services
 - Containerizing applications with **Docker**
 - Improving system reliability & performance with **monitoring + observability**
 
@@ -66,18 +66,18 @@ Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git
 **CI/CD:** GitHub Actions, Jenkins  
 **IaC:** Terraform  
 **Languages:** Python, Bash, Java, C++  
-**Version Control:** Git  
+**Version Control:** Git, GitHub, GitLab, BitBucket
 **OS:** Linux  
 **Monitoring:** Prometheus, Grafana  
 
 
 ---
 
-<!-- ### 📊 GitHub Stats
-<p><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathaaleti018&show_icons=true&theme=default" /></p>
+### 📊 GitHub Stats
+<!-- <p><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathaaleti018&show_icons=true&theme=default" /></p>
 <p><img  height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharathaaleti018&layout=compact&theme=default" />
-</p> -->
-<p>
+</p> 
+<p> -->
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=bharathaaleti018" />
 </p>
 
