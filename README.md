@@ -25,15 +25,15 @@ I enjoy working across cloud, Kubernetes, containers, CI/CD, AI&ML, LLM models.
 Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git, AI, ML, LLM's, VibeCoding, Infrastructure, SystemDesign
 
 ---
-
+<!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
 - [The 3 Commands That Turn Chaos into Clarity in DevOps](https://dev.to/bharath_018/the-3-commands-that-turn-chaos-into-clarity-in-devops-2l1h)
 - [🔐Raise your hand if you use SSH every day without actually knowing what it does. Yeah, me too😁 you’re definitely not alone.](https://dev.to/bharath_018/raise-your-hand-if-you-use-ssh-every-day-without-actually-knowing-what-it-does-yeah-me-too-56oc)
 <!-- BLOG-POST-LIST:END -->
-
 ---
+-->
 
 ### 📫 Reach Me
 **LinkedIn:** <a href="https://linkedin.com/in/bharathaaleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathaaleti" height="30" width="40" /></a>
