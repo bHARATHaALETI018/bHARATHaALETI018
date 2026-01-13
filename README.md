@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">DevOps Engineer &nbsp;&nbsp; | &nbsp;&nbsp; Kubernetes • Terraform • Docker • AWS • CI/CD</h3>
 
@@ -6,7 +5,7 @@
 
 ### 👨‍💻 About Me
 I’m a **DevOps Engineer** with a **Computer Science degree (AI & ML specialization)**, passionate about building scalable, automated, and cloud-native infrastructure.  
-I enjoy working across cloud, IaC, containers, and CI/CD to simplify deployments and improve developer experience.
+I enjoy working across cloud, Kubernetes, containers, CI/CD, AI&ML, LLM models.
 
 ---
 
@@ -20,24 +19,10 @@ I enjoy working across cloud, IaC, containers, and CI/CD to simplify deployments
 
 ---
 
-### 🌱 Currently Learning
-Deep-dive into:
-- Kubernetes internals  
-- Terraform best practices & module patterns  
-- AWS architecture & cost-efficient design  
-
----
-
-### 🤝 Open to Collaborate On
-- DevOps projects  
-- Infrastructure automation  
-- Open-source tools  
-- Cloud & platform engineering repos  
-
----
+> 🤝 Open to Collaborate
 
 ### 💬 Ask Me About
-Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git
+Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git, AI, ML, LLM's, VibeCoding, Infrastructure, SystemDesign
 
 ---
 
@@ -53,8 +38,9 @@ Kubernetes, Terraform, AWS, CI/CD, Docker, Linux, Git
 ### 📫 Reach Me
 **LinkedIn:** <a href="https://linkedin.com/in/bharathaaleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathaaleti" height="30" width="40" /></a>
 
+<!--
 **Blogs:** *Dev(.) two* <a href="https://dev.to/bharath_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharath_018" height="30" width="40" /></a>  
-
+-->
 ---
 
 ### 🛠️ Tech Stack
